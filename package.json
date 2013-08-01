@@ -46,7 +46,7 @@
   },
   "peerDependencies": {
     "grunt": "~0.4.0",
-    "bower": ">= 0.0.x"
+    "bower": ">= 1.0.x"
   },
   "engines": {
     "node": ">=0.8.0"
